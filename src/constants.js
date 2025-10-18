@@ -44,14 +44,13 @@ export const SkillsInfo = [
     skills: [
       { name: "HTML", logo: htmlLogo },
       { name: "CSS", logo: cssLogo },
-      { name: "SASS", logo: sassLogo },
       { name: "JavaScript", logo: javascriptLogo },
       { name: "React JS", logo: reactjsLogo },
       { name: "Redux", logo: reduxLogo },
-      { name: "Tailwind CSS", logo: tailwindcssLogo },
       { name: "Material UI", logo: materialuiLogo },
+      { name: "SASS", logo: sassLogo },
+      { name: "Tailwind CSS", logo: tailwindcssLogo },
       { name: "Bootstrap", logo: bootstrapLogo },
-      { name: "JavaScript", logo: javascriptLogo },
 
       { name: "Node JS", logo: nodejsLogo },
       { name: "Express JS", logo: expressjsLogo },
