@@ -44,7 +44,6 @@ const Skills = () => (
                 <div
                   key={skill.name}
                   className="flex items-center justify-center space-x-2 bg-transparent border-2 border-gray-700 rounded-3xl py-2 px-2 sm:py-2 sm:px-2 text-center"
-                  // style={{background:"red", width:"100%"}}
                 >
                   <img
                     src={skill.logo}
